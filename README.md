@@ -1,2 +1,2 @@
 # hello-world
-Estoy estudiando
+tada: Juan Sosa Dias
